@@ -7,6 +7,7 @@ This project utilizes [NASA's Open APIs
 ](https://api.nasa.gov/) and put into a tweet.
 
 ## Deployment
-The project is hosted on [PythonAnywhere](https://www.pythonanywhere.com/) and is optimized to work with the free tier 
+The project is hosted on [PythonAnywhere](https://www.pythonanywhere.com/) and is optimized to work with the free tier and can be seen working [at this twitter account](https://twitter.com/nearearthbot
+) 
 
 
