@@ -6,8 +6,15 @@ This project utilizes [NASA's Open APIs
 ](https://api.nasa.gov/) to get information on near earth asteroids and if any are close enough or are in a trajectory to be deemed hazardous according to NASA, that information is then put in a tweet using the [Twitter API](https://developer.twitter.com/en/docs) and [Tweepy](https://github.com/tweepy/tweepy). Similarly, a daily picture of space is taken from one of [NASA's Open APIs
 ](https://api.nasa.gov/) and put into a tweet.
 
+<p align="center">
+  <img src="demo/AstroTwitterDemo.png">
+  <b></b><br>
+</p>
+
 ## Deployment
 The project is hosted on [PythonAnywhere](https://www.pythonanywhere.com/) and is optimized to work with the free tier and can be seen working [at this twitter account](https://twitter.com/nearearthbot
 ) 
+
+
 
 
